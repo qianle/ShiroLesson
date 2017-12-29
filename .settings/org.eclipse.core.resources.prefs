@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java/cn/gn/lesson02/controller/DeptController.java=UTF-8
+encoding//src/main/java/cn/gn/lesson02/controller/EmpController.java=UTF-8
+encoding//src/main/java/cn/gn/lesson02/controller/MyStudentController.java=UTF-8
+encoding//src/main/java/cn/gn/lesson02/entity/Result.java=UTF-8
+encoding//src/main/java/cn/gn/lesson02/service/impl/DeptServiceImpl.java=UTF-8
+encoding//src/main/java/cn/gn/lesson02/service/impl/EmpServiceImpl.java=UTF-8
+encoding//src/main/java/cn/gn/lesson02/service/impl/MyStudentServiceImpl.java=UTF-8
+encoding//src/main/java/cn/gn/lesson02/util/PageTools.java=UTF-8
+encoding//src/main/resources/my.ini=UTF-8
+encoding//src/main/webapp/WEB-INF/my.ini=UTF-8
+encoding//src/main/webapp/layout1.jsp=UTF-8
